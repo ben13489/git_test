@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu1"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="分析推薦" />
+        <item
+            android:id="@+id/nav_menu2"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="流量數據" />
+        <item
+            android:id="@+id/nav_menu3"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="訊號地圖" />
+    </group>
+
+</menu>
